@@ -3,3 +3,4 @@ this is a.txt
 quy dz vl
 chuan cmnr
 update tiep thoi
+fix bug thoi, update de sau
