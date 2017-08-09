@@ -2,3 +2,4 @@ this is a.txt
 
 quy dz vl
 chuan cmnr
+update tiep thoi
