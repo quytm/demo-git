@@ -3,4 +3,8 @@ this is a.txt
 quy dz vl
 chuan cmnr
 update tiep thoi
-fix bug thoi, update de sau
+
+fix bug thoi, update de sau : bug_1 branch
+
+update file tren feature_login branch
+
